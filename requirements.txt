@@ -4,7 +4,11 @@ click==8.1.7
 colorama==0.4.6
 dnspython==2.7.0
 email_validator==2.2.0
+<<<<<<< HEAD
 Flask
+=======
+Flask==3.0.3
+>>>>>>> 69a76af54d6ecb4070d2be0692b9d053069b41ca
 Flask-Bcrypt==1.0.1
 Flask-Login==0.6.3
 Flask-Mail==0.10.0
